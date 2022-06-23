@@ -1,0 +1,20 @@
+"""
+Job Portal:
+
+Different Organizations need various types of manpower for their need to execute duties on their locations. For this they recruit people. We can develop an excellent online system to recruit people.
+
+Online job Portal System can be developed to be used by both job seekers and Employers.
+
+The objective of the application is to develop a system using which job applicants and recruiters can communicate with each other. The purpose is to enable applicants to search for jobs in a convenient manner and to enable employers to find suitable candidates.
+
+Job Seeker module, Employer module and administration module
+
+Job Seeker Module:
+This module provides functionalities for job seekers. Applicants can post their resumes with personal and professional details. They can also update the resume as frequently as required. The applicant can also browse through the present vacancies available. 
+
+Employer Module:
+This module provides functionalities related to employers. Employers can post vacancy details and update the details as and when necessary. Employers can search through applicant resumes based on different criteria
+
+Administration Module:
+This module provides administrator related functionalities. Administrator manages entire application and maintains the profiles of applicants and employers. 
+"""
